@@ -1,5 +1,6 @@
 pyrogram
 tgcrypto
 motor
+pymongo
 python-dotenv
-pyromod  # Para la función client.ask (instalar: pip install pyromod)
+pyromod
