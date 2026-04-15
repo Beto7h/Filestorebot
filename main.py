@@ -146,7 +146,7 @@ async def handle_start(client, message, is_callback=False):
     
     botones = InlineKeyboardMarkup([
         [InlineKeyboardButton("📖 Ayuda / Info", callback_data="ver_ayuda")],
-        [InlineKeyboardButton("📢 Canal", url="https://t.me/TuCanalOficial")]
+        [InlineKeyboardButton("📢 Canal", url="https://t.me/cinito")]
     ])
 
     if is_callback:
